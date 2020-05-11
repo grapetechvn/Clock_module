@@ -1,0 +1,25 @@
+Added Component: Designator=JP1(JP2)
+Added Component: Designator=JP5(JP8)
+Added Component: Designator=JP6(JP8)
+Added Pin To Net: NetName=VDD_3V3 Pin=JP1-1
+Added Pin To Net: NetName=VDD_IO Pin=JP1-2
+Added Pin To Net: NetName=VDD_3V3 Pin=JP5-1
+Added Pin To Net: NetName=NetJP5_2 Pin=JP5-2
+Added Pin To Net: NetName=NetJP5_3 Pin=JP5-3
+Added Pin To Net: NetName=NetJP5_4 Pin=JP5-4
+Added Pin To Net: NetName=NetJP5_5 Pin=JP5-5
+Added Pin To Net: NetName=NetJP5_6 Pin=JP5-6
+Added Pin To Net: NetName=NetJP5_7 Pin=JP5-7
+Added Pin To Net: NetName=GND Pin=JP5-8
+Added Pin To Net: NetName=NetJP6_1 Pin=JP6-1
+Added Pin To Net: NetName=NetJP6_2 Pin=JP6-2
+Added Pin To Net: NetName=NetJP6_3 Pin=JP6-3
+Added Pin To Net: NetName=NetJP6_4 Pin=JP6-4
+Added Pin To Net: NetName=NetJP6_5 Pin=JP6-5
+Added Pin To Net: NetName=NetJP6_6 Pin=JP6-6
+Added Pin To Net: NetName=TX Pin=JP6-7
+Added Pin To Net: NetName=RX Pin=JP6-8
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component JP5 JP8
+Added Member To Class: ClassName=Sheet1 Member=Component JP6 JP8
+Added Room: Name=Sheet1

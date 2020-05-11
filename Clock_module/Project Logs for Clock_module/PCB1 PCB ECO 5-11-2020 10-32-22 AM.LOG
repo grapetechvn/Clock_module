@@ -1,0 +1,6 @@
+Added Component: Designator=U2(SOT223_N)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U2-2
+Added Pin To Net: NetName=EXTERNAL 3V3 Pin=U2-3
+Added Member To Class: ClassName=Sheet1 Member=Component U2 AMS1117
+Added Room: Name=Sheet1
