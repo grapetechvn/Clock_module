@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=8MHz NewDesignator=X1
+Change Component Designator: OldDesignator=25MHz NewDesignator=XTAL1
+Change Component Designator: OldDesignator=CLOCK0 NewDesignator=JP2
+Change Component Designator: OldDesignator=CLOCK1 NewDesignator=JP3
+Change Component Designator: OldDesignator=CLOCK2 NewDesignator=JP4
+Change Component Designator: OldDesignator=LED 13 NewDesignator=LED TEST
+Change Component Designator: OldDesignator=RX NewDesignator=LED2
+Change Component Designator: OldDesignator=TX NewDesignator=LED3
+Added Pin To Net: NetName=5V Pin=JP6-1
