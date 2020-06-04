@@ -123,6 +123,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCDOQKJC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Clock_module\Design Rule Check - V3.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
